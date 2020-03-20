@@ -45,3 +45,4 @@ configparser==4.0.2
 requests==2.23.0
 simplejson==3.17.0
 imdbpy==6.8 
+tqdm==4.43.0
