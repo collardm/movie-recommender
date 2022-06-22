@@ -32,7 +32,7 @@
 
 ##### Core packages
 
-numpy==1.18.1
+numpy==1.22.0
 scipy==1.4.1
 seaborn==0.10.0
 pandas==1.0.1
